@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: Player2
+      mvc:    pathmatch:      matching-strategy: ant-path-matcher
+       
+server:
+  port: 8555
